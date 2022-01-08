@@ -15,9 +15,7 @@
 |2주차|11/3|Git|[🖤Git](https://github.com/flowersayo/Today-I-Learned-/blob/main/Git%20%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC/%EA%B9%83%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)|
 |3주차|11/10|JavaScript|[🎥JAVASCRIPT](https://velog.io/@flowersayo/Javascript-ky5b6wwm)|
 |4주차|11/17|NodeJS|<a href="https://www.notion.so/Node-js-20a3df5a2aba4ec3b5184227eb56ec7c">💚Node.js 정리본</a>|
-|5주차|11/24|Databases||
-|6주차|12/1|MySQL||
-|7주차||NodeJs & MySql|`|
-|8주차||React (1)||
-|9주차||React (2)||
-
+|5주차|11/24|Databases|[🎫MySQL](https://www.notion.so/DATABASE-MySQL-2c26957b30b44e41b74c5950b59b534f)|
+|6주차|12/22|NodeJs & MySql|[📗Node&MySQL연동](https://www.notion.so/Node-js-MySQL-51a363280c4848ad81915d339b580fd2)|
+|7주차|12/22|React (1)|[🔵React](https://www.notion.so/React-17f1901aa20946419269a01e2b4de552)|
+|8주차|12/29|React (2)|[🔵React](https://www.notion.so/React-17f1901aa20946419269a01e2b4de552)|
