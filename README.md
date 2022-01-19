@@ -1,4 +1,6 @@
 # Study-web
+
+# ⭐ flowersayo 브랜치를 확인해주세요! ⭐
 #### 🎈 <a href="https://www.notion.so/gdsc-ewha/2b3e8c31aa9c463a8fd992ffdba2859e">Notion</a>
 #### 🎈 <a href="https://gdscewha.tistory.com/">Team blog</a>
 
